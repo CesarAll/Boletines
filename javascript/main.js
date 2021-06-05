@@ -54,7 +54,7 @@ link.forEach(function(link){
         //enviar a la otra página despues de terminar la animación
         //con settimeout retrasamos el redireccionamiento
         setTimeout(() => {
-            location.href = '/'
+            location.href = '/boletines'
         }, 600); // 1000 es un segundo
         
 
